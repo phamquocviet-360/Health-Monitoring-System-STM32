@@ -1,7 +1,7 @@
 /*
 ==============================================================================
 DỰ ÁN: HỆ THỐNG GIÁM SÁT SỨC KHỎE ĐA CHỈ SỐ
-MCU: STM32F407
+MCU: STM32F411CEU6
 Cảm biến: MAX30100 (Nhịp tim + SpO2) + DS18B20 (Nhiệt độ)
 Hiển thị: OLED SSD1306 (SPI)
 Debug: UART1 (PA9)
